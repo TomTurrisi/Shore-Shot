@@ -1,25 +1,30 @@
+<br>
 <table style="width: 100%">
     <tr>
         <td width="20%" ; rowspan="4" ; valign="top" ; align="center" ;>
             <img src="https://i.ibb.co/yNtWthd/307343137-459880902843761-7799264910593914448-n.jpg" style="width: 25px; height: 25px "
             />
-            <br>Shore Shot Pistol Range
+            <br>Shore Shot
         </td>
     </tr>
+<br>
     <tr>
         <td align="left" ; width="80%" ; colspan="2">
             <manufacturer>
         </td>
     </tr>
     <tr>
-        <td align="left" ; width="80%" ; colspan="2">
+        <td align="left" ; align="center"width="80%" ; colspan="2">
             <model>
         </td>
     </tr>
     <tr>
         <td align="left" ; width="80%" ; colspan="2">
-            <caliber> -
+            <caliber> 
+<br>
                 <type>
+<br>
+Barrel Length <barrel_length>"
         </td>
     </tr>
     <tr>
@@ -29,6 +34,7 @@
     </tr>
     <tr>
         <td width="100%" ; align="center" ; colspan="2">
+<strong><price>
             <barcode_item_number>
         </td>
     </tr>
