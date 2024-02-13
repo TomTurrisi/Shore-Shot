@@ -1,14 +1,20 @@
 <br>
 <br>
-<manufacturer> - <model>
+<manufacturer>
 <br>
-    <caliber> <type> - Serial: <serial>
+ <model>
+<br>
+    <caliber>
+<br>
+ <type> - Serial: <serial>
 <br>
 Barrel Length <barrel_length>"
 <br>
     Item (<item_number>)
 <br>
     <barcode_item_number>
+<br>
+<barcode_upc>
 <condition>
 <h1>
 <price>
